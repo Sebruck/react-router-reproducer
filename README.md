@@ -1,0 +1,1 @@
+Run `npm run build` to analyze the bundle

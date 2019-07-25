@@ -1,0 +1,22 @@
+{
+  "name": "react-router-reproducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Sebastian",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "webpack": "4.35.3",
+    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
